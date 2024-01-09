@@ -10,7 +10,4 @@ Hello World! I'm Afnan Farooq Mir, a passionate BCA student at Cluster Universit
 
 #BCAStudent #JavaScriptDeveloper #TechEnthusiast #AlwaysLearning
 
-<!---
-Afnan-Farooq-Mir/Afnan-Farooq-Mir is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
