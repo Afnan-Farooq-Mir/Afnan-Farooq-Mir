@@ -2,7 +2,7 @@ Hello World! I'm Afnan Farooq Mir, a passionate BCA student at Cluster Universit
 
 🚀 Recently completed my JavaScript journey, and now on a mission to level up my coding skills day by day. 💻 Constantly learning, evolving, and embracing the challenges that come my way.
 
-🌐 Aspiring Developer | JavaScript Enthusiast | BCA Explorer
+🌐 Aspiring Developer | JavaScript Enthusiast | ReactJs |BCA Explorer
 
 🛠️ Currently honing my skills in JavaScript to create meaningful and innovative solutions. Open to collaboration and always eager to contribute to exciting projects.
 
